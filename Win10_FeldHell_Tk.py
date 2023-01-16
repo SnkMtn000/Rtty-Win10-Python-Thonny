@@ -10,7 +10,7 @@ dit = 1675
 # bit_time = .057 #slow hell works!  .057
 bit_time = .0072 # fast hell  what ever...........0082  .0072
 
-#textboxValue = '   ...   CQ CQ CQ KC1ENN KC1ENN KC1ENN PSK  ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789 ...'
+#textboxValue = '   ...   CQ CQ CQ CALLSIGN CALLSIGN PSE K  ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789 ...'
 textboxValue = ' ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789 ./'
 
 Hell = { # lead START with a space, 0 STOP with two marks 11
